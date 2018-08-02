@@ -1,0 +1,8 @@
+Bucket a - b: [amanda]
+Bucket c - c: [cinema, customer]
+Bucket d - f: [dillema, father, for]
+Bucket g - k: [good, hello, how, how, integer, is, joseph, kilogram, know]
+Bucket l - o: [never, never, no, not, operation]
+Bucket p - r: [problem, quiz]
+Bucket s - s: [santa]
+Bucket t - z: [this, us, xfactor, yes, you, you, your, zipper, zoom]
